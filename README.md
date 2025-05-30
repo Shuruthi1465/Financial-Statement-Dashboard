@@ -4,7 +4,7 @@ This project involves building an interactive Financial Statement Dashboard usin
 
 📁 Dataset
 
-    The dataset includes:
+The dataset includes:
 
     Profit & Loss sheet: Revenue, product/service breakdown, expenses, interest, and tax.
 
